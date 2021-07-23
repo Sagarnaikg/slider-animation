@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/slider-animation/static/css/main.4cd885b4.chunk.css",
+    "main.js": "/slider-animation/static/js/main.3a03e253.chunk.js",
+    "main.js.map": "/slider-animation/static/js/main.3a03e253.chunk.js.map",
+    "runtime-main.js": "/slider-animation/static/js/runtime-main.6a546689.js",
+    "runtime-main.js.map": "/slider-animation/static/js/runtime-main.6a546689.js.map",
+    "static/js/2.ac3794ac.chunk.js": "/slider-animation/static/js/2.ac3794ac.chunk.js",
+    "static/js/2.ac3794ac.chunk.js.map": "/slider-animation/static/js/2.ac3794ac.chunk.js.map",
+    "static/js/3.5eda7652.chunk.js": "/slider-animation/static/js/3.5eda7652.chunk.js",
+    "static/js/3.5eda7652.chunk.js.map": "/slider-animation/static/js/3.5eda7652.chunk.js.map",
+    "index.html": "/slider-animation/index.html",
+    "static/css/main.4cd885b4.chunk.css.map": "/slider-animation/static/css/main.4cd885b4.chunk.css.map",
+    "static/js/2.ac3794ac.chunk.js.LICENSE.txt": "/slider-animation/static/js/2.ac3794ac.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.389e5dec.svg": "/slider-animation/static/media/arrow-left.389e5dec.svg",
+    "static/media/arrow-right.067f8094.svg": "/slider-animation/static/media/arrow-right.067f8094.svg",
+    "static/media/image.26e4533f.jpg": "/slider-animation/static/media/image.26e4533f.jpg",
+    "static/media/image2.37238b3f.jpg": "/slider-animation/static/media/image2.37238b3f.jpg",
+    "static/media/image3.3a14efc3.jpg": "/slider-animation/static/media/image3.3a14efc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a546689.js",
+    "static/js/2.ac3794ac.chunk.js",
+    "static/css/main.4cd885b4.chunk.css",
+    "static/js/main.3a03e253.chunk.js"
+  ]
+}
