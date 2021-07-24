@@ -4,6 +4,9 @@ testimonials slider animation using react and gsap
 
 Checkout deployed page [here](https://sagarnaikg.github.io/slider-animation/).
 
+### demo
+<img src="https://raw.githubusercontent.com/Sagarnaikg/sagarnaikg/main/assets/slideranimation.gif" />
+
 ## Installation
 
 Install my-project with npm
